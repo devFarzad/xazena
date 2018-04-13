@@ -1,1 +1,2 @@
-Xazena is finance project
+# Xazena
+a simple project
